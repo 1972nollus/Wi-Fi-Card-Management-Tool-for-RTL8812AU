@@ -14,7 +14,8 @@ A Python-based GUI tool for managing wireless network interfaces, designed for p
 - 
 ## Demo
 
-![Wi-Fi Tool Demo](media/demo.gif)
+![Wi-Fi Tool Demo](test.gif)
+
 ## Prerequisites
 
 ### System Requirements
