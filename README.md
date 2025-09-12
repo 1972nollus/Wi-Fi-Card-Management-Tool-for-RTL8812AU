@@ -20,7 +20,7 @@ A Python-based GUI test tool for managing your wireless network interfaces that 
 
 ### System Requirements
 - Linux-based operating system (Kali Linux recommended) - only tested it on 6.12.38+kali-amd64
-- Wifi adapter supported by Linux Kali 6.12.38+kali-amd64. I tested it on 8812AU and AR9271. Both working.
+- Wifi adapter supported by Linux Kali 6.12.38+kali-amd64. I tested it on 8812AU and AR9271. Both working. Should work on most cards supported by linux kali.
 - Python 3.6 or higher
 - A wireless network adapter that supports monitor mode and packet injection
 
