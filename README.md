@@ -37,18 +37,18 @@ sudo apt install python3-pyqt5 aircrack-ng wireless-tools wash macchanger ethtoo
 
 1. Clone or download this repository:
 ```bash
-git clone https://github.com/yourusername/wifi-tool.git
-cd wifi-tool
+git clone https://github.com/daap1972-art/Wi-Fi-Card-Management-Tool-for-RTL8812AU.git
+cd Wi-Fi-Card-Management-Tool-for-RTL8812AU
 ```
 
 2. Make the script executable:
 ```bash
-chmod +x wifi_tool.py
+chmod +x wifi-gui.py
 ```
 
 3. Run the application (requires root privileges):
 ```bash
-sudo ./wifi_tool.py
+sudo ./wifi-gui.py
 ```
 
 ## Python Requirements
