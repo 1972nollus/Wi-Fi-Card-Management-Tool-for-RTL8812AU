@@ -11,7 +11,10 @@ A Python-based GUI tool for managing wireless network interfaces, designed for p
 - **MAC Address Spoofing**: Randomize your MAC address
 - **Power Management**: Adjust TX power for better signal transmission
 - **Process Management**: Kill conflicting network processes
+- 
+## Demo
 
+![Wi-Fi Tool Demo](media/demo.gif)
 ## Prerequisites
 
 ### System Requirements
