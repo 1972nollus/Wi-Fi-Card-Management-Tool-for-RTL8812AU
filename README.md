@@ -30,9 +30,12 @@ Install these dependencies before using the tool:
 On Debian/Ubuntu/Kali Linux ( when not allready installed ) :
 ```bash
 sudo apt update
-sudo apt install python3-pyqt5 aircrack-ng wireless-tools wash macchanger ethtool
+sudo apt install python3-pyqt5 
 ```
-
+```bash
+# Optional ( when not installed....linux from 1945 maybe ? :
+sudo apt install aircrack-ng wireless-tools reaver macchanger ethtool
+```
 ## Installation
 
 1. Clone or download this repository:
