@@ -1,6 +1,6 @@
 # Wi-Fi Card Management Tool for RTL8812AU
 
-A Python-based GUI tool for managing wireless network interfaces, designed for penetration testing and Wi-Fi security assessments.
+A Python-based GUI test tool for managing your wireless network interfaces that are designed for penetration testing and Wi-Fi security assessments.
 
 ## Features
 
@@ -9,7 +9,7 @@ A Python-based GUI tool for managing wireless network interfaces, designed for p
 - **WPS Detection**: Identify WPS-enabled networks with wash
 - **Packet Injection Testing**: Test your adapter's packet injection capabilities
 - **MAC Address Spoofing**: Randomize your MAC address
-- **Power Management**: Adjust TX power for better signal transmission
+- **Power Management**: Adjust TXpower for better signal transmission
 - **Process Management**: Kill conflicting network processes
 - 
 ## Demo
@@ -20,6 +20,7 @@ A Python-based GUI tool for managing wireless network interfaces, designed for p
 
 ### System Requirements
 - Linux-based operating system (Kali Linux recommended) - only tested it on 6.12.38+kali-amd64
+- Wifi adapter supported by Linux Kali 6.12.38+kali-amd64. I tested it on 8812AU and AR9271. Both working.
 - Python 3.6 or higher
 - A wireless network adapter that supports monitor mode and packet injection
 
