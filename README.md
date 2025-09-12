@@ -61,7 +61,13 @@ The tool requires PyQt5 for the graphical interface. You can install it using:
 ```bash
 pip install PyQt5
 ```
+To update python :
 
+```bash
+sudo apt update -y
+sudo apt install python3 -y
+python --version # check which version is installed
+```
 ## Usage Notes
 
 - The tool must be run with root privileges (using sudo)
