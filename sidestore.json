@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "LcInstaller",
+    "identifier": "site.ashutoshportfolio.lcinstaller",
+    "subtitle": "LiveContainer Installer Repo to install or update LcInstaller",
+    "sourceURL": "https://raw.githubusercontent.com/asrma7/LiveContainer-Installer/main/sidestore.json",
+    "iconURL": "https://raw.githubusercontent.com/asrma7/LiveContainer-installer/main/screenshots/100.png",
+    "website": "https://github.com/asrma7/LiveContainer-Installer",
+    "description": "Official Repo of LcInstaller",
+    "tintColor": "#3333FF"
+  },
+  {
+    "id": 2,
+    "name": "CyPwnStore",
+    "identifier": "xyz.cypwn.repo",
+    "subtitle": "Tweaks, apps en meer van CyPwn",
+    "sourceURL": "https://repo.cypwn.xyz",
+    "iconURL": "https://repo.cypwn.xyz/CydiaIcon.png",
+    "website": "https://repo.cypwn.xyz",
+    "description": "De officiële repo van CyPwn met tweaks en apps",
+    "tintColor": "#FF0000"
+  }
+]
